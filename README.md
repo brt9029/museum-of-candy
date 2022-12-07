@@ -5,7 +5,7 @@
 ## Description
 - Simple website using Bootstrap
 - Created in order to futher explore Bootstrap usability
-- Making this helped with using Bootstrap for this particular layout
+- Making this helped with using Bootstrap to achieve the specific layout shown
 
 ## Usage
 - Site can be accessed here: https://brt9029.github.io/museum-of-candy/
