@@ -1,5 +1,7 @@
 # Museum of Candy
-
+![License](https://img.shields.io/github/license/brt9029/museum-of-candy)  
+![brt9029](https://img.shields.io/badge/-html-blueviolet)
+![brt9029](https://img.shields.io/badge/-css-blue)
 ## Description
 - Simple website using Bootstrap
 - Created in order to futher explore Bootstrap usability
@@ -13,6 +15,3 @@
 
 ## Credits
 Created by: [brt9029](wwww.github.com/brt9029 "Github Profile Link")
-
-## License
-Licensed under the MIT License
